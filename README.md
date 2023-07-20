@@ -19,19 +19,15 @@ I'm [Roman Cores](https://github.com/romancores), a passionate coder and team le
 
 ### ⚡ Fun fact
 
-I love to travel and have visited [45] countries so far! 🌍
-
-### 🏆 My Github Stats
-
-[https://github-readme-stats.vercel.app/api?username=romancores&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api?username=romancores&show_icons=true&theme=radical)
+I love to travel and have visited **45** countries so far! 🌍
 
 ### 🚀 My Latest Projects
 
-- ***Sencera App*** [iOS](https://apps.apple.com/ru/app/sensera-cbt-self-help/id1550071754) [(Android)](https://play.google.com/store/apps/details?id=io.therappy.therappyapp):
+- **Sencera App** [iOS](https://apps.apple.com/ru/app/sensera-cbt-self-help/id1550071754) [Android](https://play.google.com/store/apps/details?id=io.therappy.therappyapp):
   Sensera is a daily 10-minute self-therapy app. Feel better and happier with audio sessions and exercises designed by licensed therapists.
-- ***Flips*** [iOS](https://apps.apple.com/us/app/flips-cards-that-help/id1626446928) [(Android)](https://play.google.com/store/apps/details?id=com.flipscards.app):
+- **Flips** [iOS](https://apps.apple.com/us/app/flips-cards-that-help/id1626446928) [Android](https://play.google.com/store/apps/details?id=com.flipscards.app):
   Flips — an app with cards that helps facilitate communication, find ideas and understand yourself.
-- ***Mandrin Markets*** [iOS](https://apps.apple.com/ec/app/%D0%BC-%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82/id6444895728) [(Android)](https://play.google.com/store/apps/details?id=ru.mandarineda.micromarkets): 
+- **Mandrin Markets** [iOS](https://apps.apple.com/ec/app/%D0%BC-%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82/id6444895728) [Android](https://play.google.com/store/apps/details?id=ru.mandarineda.micromarkets): 
   Buy ready-made food quickly, conveniently and without queues! Breakfasts, salads, main courses, snacks, desserts - and all this in the Mandarin vending machine.
 
 ### 📚 My Blog Posts
