@@ -9,17 +9,9 @@ I'm [Roman Cores](https://github.com/romancores), a passionate coder and team le
 
 ### 💬 Ask me about
 
-- Flutter/Dart: Over 4 years of architecting and designing mobile applications using Dart/Flutter.
+- Flutter/Dart: Over 4 years of architecting and designing mobile applications using Dart/Flutter and total 8 years of coding.
 - Lean Startup: More than 6 years in building, testing and pivoting various projects and hypotheses.
 - Decentralized teams: Successfully build a number of teams in different timezones, continents and stacks of technology.
-
-### 📫 How to reach me
-
-- LinkedIn [Roman Cores](https://www.linkedin.com/in/romancores/)
-
-### ⚡ Fun fact
-
-I love to travel and have visited **45** countries so far! 🌍
 
 ### 🚀 My Latest Projects
 
@@ -41,3 +33,11 @@ I love to travel and have visited **45** countries so far! 🌍
 - [Invoice su](https://github.com/HorumDev/invoice_su) a package that allows you to use web-based Acquiring API calls from #Dart in any platform
 - [Platinum list](https://github.com/romancores/platinum_list) a package that allows you to use Platinumlist API for getting events and selling tickets from your Flutter app
 - [Tinkoff mobile acquiring](https://github.com/HorumDev/tinkoff_acquiring) a Flutter mobile plugin that allows you to use native IOS and Android SDK directly from Flutter and use features like Apple and Google Pay from your app
+
+### 📫 How to reach me
+
+- LinkedIn [Roman Cores](https://www.linkedin.com/in/romancores/)
+
+### ⚡ Interesting fact
+
+I love to travel and have visited **45** countries so far! 🌍
