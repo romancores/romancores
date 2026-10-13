@@ -14,7 +14,7 @@
   <a href="https://ansi.world"><img src="https://img.shields.io/badge/Building-ansi.world-111111" alt="ANSI"></a>
 </p>
 
-I ship production AI systems — LLM pipelines, multi-agent services, MCP tooling — and lead the distributed teams that run them. Two-time cofounder, currently **CTO / Lead AI Engineer at [CIMA](https://cima.tech)** (Azart Technologies), an AI-driven B2B platform for airlines. Next stop: **robotics software** — bringing real-time pipeline and protocol experience to ROS 2 and physical systems.
+I ship production AI systems — LLM pipelines, multi-agent services, MCP tooling — and lead the distributed teams that run them. Two-time cofounder, currently **CTO / Lead AI Engineer at [CIMA](https://cima.systems)** (Azart Technologies), an AI-driven B2B platform for airlines. Next stop: **robotics software** — bringing real-time pipeline and protocol experience to ROS 2 and physical systems.
 
 > Most of my recent work lives in private company repos. Happy to walk through architecture and code on a call.
 
@@ -30,16 +30,16 @@ I ship production AI systems — LLM pipelines, multi-agent services, MCP toolin
 
 ## 🛠 Selected work
 
-| Project | What it is | Stack | Status |
-|---|---|---|---|
-| [**volve_ddrs**](https://github.com/romancores/volve_ddrs) | *DDR Intelligence* — local-first, provenance-preserving extraction, anomaly flagging and cited Q&A over 1,000 Daily Drilling Reports (Volve corpus). Deterministic parser owns facts; LLMs confined to judgement and wording. Runs on one Apple-Silicon machine, zero data egress. | Python, pdfplumber, local LLMs, ADRs | Public |
-| **ANSI** · [ansi.world](https://ansi.world) | Multi-agent travel guide platform (see *Now*). Plus a content-swarm service: Google Sheets MCP + AgentScope swarm that brainstorms, enriches and cross-verifies a content plan under a budget cap. | Python, AgentScope, MCP, NestJS, Flutter, RabbitMQ, Qdrant | Private beta |
-| **CIMA** · [cima.tech](https://cima.tech) | Airline operations platform: LLM document reconciliation, real-time flight data, booking-provider and partner integrations, web + mobile + partner APIs. | Python, NestJS, Flutter, LLM pipelines, K8s | In production |
+| Project                                                     | What it is | Stack | Status |
+|-------------------------------------------------------------|---|---|---|
+| [**volve_ddrs**](https://github.com/romancores/volve_ddrs)  | *DDR Intelligence* — local-first, provenance-preserving extraction, anomaly flagging and cited Q&A over 1,000 Daily Drilling Reports (Volve corpus). Deterministic parser owns facts; LLMs confined to judgement and wording. Runs on one Apple-Silicon machine, zero data egress. | Python, pdfplumber, local LLMs, ADRs | Public |
+| **ANSI** · [ansi.world](https://ansi.world)                 | Multi-agent travel guide platform (see *Now*). Plus a content-swarm service: Google Sheets MCP + AgentScope swarm that brainstorms, enriches and cross-verifies a content plan under a budget cap. | Python, AgentScope, MCP, NestJS, Flutter, RabbitMQ, Qdrant | Private beta |
+| **CIMA** · [cima.systems](https://cima.systems)             | Airline operations platform: LLM document reconciliation, real-time flight data, booking-provider and partner integrations, web + mobile + partner APIs. | Python, NestJS, Flutter, LLM pipelines, K8s | In production |
 | **AI assistant platform** (solo founder + AI coding agents) | Metered, memory-bearing AI assistant with tools. Python modular monolith with explicit ports; **double-entry token ledger**; tests-as-spec; **diff-scoped mutation testing** in CI; 60+ ADRs; agents implement, I review and merge every PR. | Python 3.12, FastAPI, Pydantic AI, Postgres + pgvector, vLLM | Private, in build |
-| **Agent team ops** | A set of scheduled Claude agent "routines" — PM dispatcher, architect/CTO advisor, code reviewer, QA — that run the day-to-day engineering process for an aviation product: Jira conventions, release cards, digests, scorecards. | Claude agents, skills, Jira, Telegram | Private, running daily |
-| **Family Compass** | Flutter family-tree app: graph model (`Person` nodes, `parentChild`/`partner` edges), four-way swipe navigation, inline add-relative, on-device Drift/SQLite persistence. 134 tests, `flutter analyze` clean. | Flutter, Dart, Drift | Local, mock-UI phase |
-| **MCP servers** | Wikipedia and DuckDuckGo search servers deployed on Railway; Playwright browser, Git-notices and personal-finance MCPs for daily use. | Python, `mcp` SDK, FastAPI | Mixed |
-| **fastrtc_speaker_backend** | Real-time voice conversation backend: WebRTC in → STT → LLM → Sesame CSM speech out, with TURN and conversation memory. | Python, FastAPI, FastRTC, Hugging Face | Prototype |
+| **Agent team ops**                                          | A set of scheduled Claude agent "routines" — PM dispatcher, architect/CTO advisor, code reviewer, QA — that run the day-to-day engineering process for an aviation product: Jira conventions, release cards, digests, scorecards. | Claude agents, skills, Jira, Telegram | Private, running daily |
+| **Family Compass**                                          | Flutter family-tree app: graph model (`Person` nodes, `parentChild`/`partner` edges), four-way swipe navigation, inline add-relative, on-device Drift/SQLite persistence. 134 tests, `flutter analyze` clean. | Flutter, Dart, Drift | Local, mock-UI phase |
+| **MCP servers**                                             | Wikipedia and DuckDuckGo search servers deployed on Railway; Playwright browser, Git-notices and personal-finance MCPs for daily use. | Python, `mcp` SDK, FastAPI | Mixed |
+| **fastrtc_speaker_backend**                                 | Real-time voice conversation backend: WebRTC in → STT → LLM → Sesame CSM speech out, with TURN and conversation memory. | Python, FastAPI, FastRTC, Hugging Face | Prototype |
 
 ---
 
